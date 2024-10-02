@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dkavyashreni@gmail.com**
 
-- ⚡ My Strengths are **my confidence and eager to explore new innovations**
+- ⚡ My Strengths are **My confidence and eager to explore new innovations**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
