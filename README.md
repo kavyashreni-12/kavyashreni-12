@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kavyashreni Dhulipudi</h1>
 <h3 align="center">A passionate frontend developer and Data Analyst from India</h3>
-img align="right" alt="Coding" width="400"src="https://dailydoseof365.medium.com/your-future-is-created-by-what-you-do-today-not-tomorrow-158ab9a67788">
+
 
 - 🔭 I’m currently working on **Voice Enabled Form Filling Project**
 
