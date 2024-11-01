@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavyashreni-12&label=Profile%20views&color=0e75b6&style=flat" alt="kavyashreni-12" /> </p>
 
 <h1 align="center">Hi 👋, I'm Kavyashreni Dhulipudi</h1>
 <h3 align="center">An Aspiring Software Developer and Data Analyst from India</h3>
