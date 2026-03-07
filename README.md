@@ -5,13 +5,12 @@
 <h1 align="center">Hi 👋, I'm Kavyashreni Dhulipudi</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;QA+Automation+Engineer;Data+Analytics+Enthusiast;AWS+Cloud+Learner&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;QA+Automation+Engineer;Playwright+Automation+Tester;Data+Analytics+Enthusiast;AWS+Cloud+Learner&center=true&width=520&height=45">
 </p>
 
 <h3 align="center">
 Building reliable software • Automating quality • Exploring data insights
 </h3>
-
 ---
 
 # 🚀 Portfolio
@@ -56,37 +55,82 @@ Building reliable software • Automating quality • Exploring data insights
 
 # 👩‍💻 About Me
 
-- 💼 **Software Developer & QA Automation Engineer**
-- 🧪 **8+ months experience** in Manual Testing & Playwright Automation
-- 🔍 Experienced in **API Testing, UI Testing, Functional Testing**
-- 🌱 Currently learning **AWS Cloud**
-- 💡 Interested in **Backend Development, Automation Frameworks, Data Analytics**
-- 🚀 Goal: **Work in a product-based company and build scalable systems**
+- 💼 **Software Developer & QA Automation Engineer with ~1 year professional experience**
+- 🧪 Hands-on experience in **Manual Testing, API Testing, and UI Automation**
+- 🤖 Built **Automation scripts using Playwright**
+- 🔎 Experienced in **Functional Testing, Regression Testing, and Test Case Design**
+- 🌱 Currently learning **AWS Cloud & scalable backend systems**
+- 💡 Interested in **Product Engineering, Automation Frameworks, and Data Analytics**
+- 🎯 Goal: **Contribute to high-impact product-based companies**
 
 ---
 
 # 🛠 Tech Stack
 
 ### Programming Languages
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp"/>
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp"/>
+
 </p>
+
+---
 
 ### Web Development
+
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,react"/>
+
 </p>
+
+---
+
+### Automation & Testing
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=selenium"/>
+
+<img src="https://img.shields.io/badge/Playwright-Automation-45ba63?style=for-the-badge&logo=playwright&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/API%20Testing-Postman-orange?style=for-the-badge&logo=postman"/>
+
+</p>
+
+---
 
 ### Databases
+
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=mysql"/>
+
 </p>
 
-### Testing & Tools
+---
+
+### Data Science & Analytics
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,aws"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+
+</p>
+
+---
+
+### Tools & Platforms
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,aws,vscode"/>
+
 </p>
 
 ---
@@ -105,26 +149,12 @@ Building reliable software • Automating quality • Exploring data insights
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyashreni-12&theme=tokyo-night"/>
-</p>
-
----
-
 # 🎯 Current Focus
 
+✔ Mastering **Automation Framework Development with Playwright**  
 ✔ Strengthening **Data Structures & Algorithms**  
-✔ Building **Automation Frameworks using Playwright**  
-✔ Learning **AWS Cloud & DevOps Basics**  
-✔ Creating **impactful software projects**
-
----
-
-# ⭐ Fun Fact
-
-💡 I enjoy solving coding problems and exploring innovative tech solutions that improve efficiency and reliability in software systems.
+✔ Learning **AWS Cloud & DevOps fundamentals**  
+✔ Building **scalable software projects**
 
 ---
 
