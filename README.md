@@ -3,15 +3,13 @@
 <h1 align="center">Hi 👋, I'm Kavyashreni Dhulipudi</h1>
 <h3 align="center">An Aspiring Software Developer and Data Analyst from India</h3>
 
-- 🚀 Visit My Portfolio < https://kavyashreni-12.github.io/My-Portfolio/ >
-  
-- 🔭 I’m currently working on **Voice Enabled Form Filling Project**
+- 🚀 Visit My Portfolio < https://kavyashrenidhulipudi.lovable.app/?utm_source=lovable-editor >
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [@https://github.com/kavyashreni-12](@https://github.com/kavyashreni-12)
 
-- 💬 Ask me about **Java, Python, MySQL, HTML, CSS, Data Science, ReactJS**
+- 💬 Ask me about **Java, Python, MySQL, Playwright, Web Development, Data Science, Machine Learning, ReactJS**
 
 - 📫 How to reach me **dkavyashreni@gmail.com**
 
