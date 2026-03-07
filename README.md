@@ -91,8 +91,6 @@ Building reliable software • Automating quality • Exploring data insights
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=selenium"/>
-
 <img src="https://img.shields.io/badge/Playwright-Automation-45ba63?style=for-the-badge&logo=playwright&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/API%20Testing-Postman-orange?style=for-the-badge&logo=postman"/>
