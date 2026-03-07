@@ -1,33 +1,95 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavyashreni-12&label=Profile%20views&color=0e75b6&style=flat" alt="kavyashreni-12" /> </p>
-
-<h1 align="center">Hi 👋, I'm Kavyashreni Dhulipudi</h1>
-<h3 align="center">An Aspiring Software Developer and Data Analyst from India</h3>
-
-- 🚀 Visit My Portfolio < https://kavyashrenidhulipudi.lovable.app/?utm_source=lovable-editor >
-
-- 🌱 I’m currently learning **AWS**
-
-- 👨‍💻 All of my projects are available at [@https://github.com/kavyashreni-12](@https://github.com/kavyashreni-12)
-
-- 💬 Ask me about **Java, Python, MySQL, Playwright, Web Development, Data Science, Machine Learning, ReactJS**
-
-- 📫 How to reach me **dkavyashreni@gmail.com**
-
-- ⚡ My Strengths are **My confidence and eager to explore new innovations**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kavyashreni-dhulipudi-4b3a17233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kavyashreni-dhulipudi-4b3a17233/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/dkavyashreni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dkavyashreni/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/dkavyashreni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/dkavyashreni" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/kavyashreni12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/kavyashreni12/" height="30" width="40" /></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kavyashreni-12&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="center">Hi 👋, I'm Kavyashreni Dhulipudi</h1>
+<h3 align="center">Software Developer • QA Automation Engineer • Data Enthusiast</h3>
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+Passionate about building reliable software, automating testing, and extracting insights from data.
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on **Automation Testing & Web Development**
+- 🌱 Currently learning **AWS Cloud**
+- 👩‍💻 Experienced in **Manual Testing, API Testing, and Playwright Automation**
+- 💡 Interested in **Software Development, Data Science, and AI**
+- 📫 Reach me at **dkavyashreni@gmail.com**
+- ⚡ Strength: **Confidence, adaptability, and curiosity to explore new technologies**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/kavyashreni-dhulipudi-4b3a17233/">
+<img src="https://img.shields.io/badge/LinkedIn-Kavyashreni-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://leetcode.com/u/dkavyashreni/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
+</a>
+
+<a href="https://www.hackerrank.com/profile/dkavyashreni">
+<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank">
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/kavyashreni12/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks">
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,react,mysql,aws,html,css,c,cpp"/>
+
+</p>
+
+---
+
+# 🧪 Testing & Data Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40">
+
+</p>
+
+---
 
 # 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavyashreni-12&" alt="kavyashreni-12" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavyashreni-12&show_icons=true&locale=en&layout=compact" alt="kavyashreni-12" /></p>
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kavyashreni-12&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyashreni-12&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyashreni-12&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Mastering **Automation Testing with Playwright**
+- ☁️ Learning **AWS Cloud**
+- 📊 Improving **Data Analytics & Machine Learning Skills**
+- 💻 Practicing **DSA on LeetCode**
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
