@@ -1,24 +1,28 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kavyashreni-12&label=Profile%20Views&color=blue&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=kavyashreni-12&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Kavyashreni Dhulipudi</h1>
-<h3 align="center">Software Developer • QA Automation Engineer • Data Enthusiast</h3>
 
 <p align="center">
-Passionate about building reliable software, automating testing, and extracting insights from data.
+<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;QA+Automation+Engineer;Data+Analytics+Enthusiast;AWS+Cloud+Learner&center=true&width=500&height=45">
 </p>
+
+<h3 align="center">
+Building reliable software • Automating quality • Exploring data insights
+</h3>
 
 ---
 
-## 🚀 About Me
+# 🚀 Portfolio
 
-- 🔭 Currently working on **Automation Testing & Web Development**
-- 🌱 Currently learning **AWS Cloud**
-- 👩‍💻 Experienced in **Manual Testing, API Testing, and Playwright Automation**
-- 💡 Interested in **Software Development, Data Science, and AI**
-- 📫 Reach me at **dkavyashreni@gmail.com**
-- ⚡ Strength: **Confidence, adaptability, and curiosity to explore new technologies**
+<p align="center">
+
+<a href="https://kavyashrenidhulipudi.lovable.app/?utm_source=lovable-editor">
+<img src="https://img.shields.io/badge/🌐 Visit%20My%20Portfolio-Kavyashreni-blue?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+</p>
 
 ---
 
@@ -42,29 +46,47 @@ Passionate about building reliable software, automating testing, and extracting 
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks">
 </a>
 
-</p>
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,react,mysql,aws,html,css,c,cpp"/>
+<a href="mailto:dkavyashreni@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
 
 </p>
 
 ---
 
-# 🧪 Testing & Data Tools
+# 👩‍💻 About Me
 
+- 💼 **Software Developer & QA Automation Engineer**
+- 🧪 **8+ months experience** in Manual Testing & Playwright Automation
+- 🔍 Experienced in **API Testing, UI Testing, Functional Testing**
+- 🌱 Currently learning **AWS Cloud**
+- 💡 Interested in **Backend Development, Automation Frameworks, Data Analytics**
+- 🚀 Goal: **Work in a product-based company and build scalable systems**
+
+---
+
+# 🛠 Tech Stack
+
+### Programming Languages
 <p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github"/>
+### Web Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+</p>
 
+### Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### Testing & Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,aws"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40">
-
 </p>
 
 ---
@@ -83,13 +105,27 @@ Passionate about building reliable software, automating testing, and extracting 
 
 ---
 
-# 🎯 Current Focus
+# 📈 Contribution Graph
 
-- 🚀 Mastering **Automation Testing with Playwright**
-- ☁️ Learning **AWS Cloud**
-- 📊 Improving **Data Analytics & Machine Learning Skills**
-- 💻 Practicing **DSA on LeetCode**
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyashreni-12&theme=tokyo-night"/>
+</p>
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+# 🎯 Current Focus
+
+✔ Strengthening **Data Structures & Algorithms**  
+✔ Building **Automation Frameworks using Playwright**  
+✔ Learning **AWS Cloud & DevOps Basics**  
+✔ Creating **impactful software projects**
+
+---
+
+# ⭐ Fun Fact
+
+💡 I enjoy solving coding problems and exploring innovative tech solutions that improve efficiency and reliability in software systems.
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
